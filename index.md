@@ -11,7 +11,7 @@
 --- 
 #### [The Massachusetts Schools Project with Tableau](/Schools_Project)
 <img src="images/SchoolsProject.jpg?raw=true"/>
-For this data visualization project, I explored data for **1861** public schools in the State of Massachusetts and delved into school performances of more than **950,000** students. The project helped me unleash the power of data visualization with tableau by creating an interactive dashboard that would help me find some data-driven insights to the Massachusetts Department of Education. The main focuses of this project are:
+For this data visualization project, I explored data for **1861 public schools** in the State of Massachusetts and delved into school performances of more than **950,000 students**. The project helped me unleash the power of data visualization with tableau by creating an interactive dashboard that would help me find some data-driven insights to the Massachusetts Department of Education. The main focuses of this project are:
 **Which public schools are in the bottom 10 in graduation percentage?**
 **Does the plan to build more public schools increase college attendance?**
 **What impact does economic background have on college attendance?**
