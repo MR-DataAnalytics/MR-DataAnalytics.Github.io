@@ -4,12 +4,12 @@
 
 ### Learn About My Projects
 
-#### [DoorDash Food Delivery Project](/DoorDash)
+#### [DoorDash Food Delivery Project with Excel](/DoorDash)
 <img src="images/DD Food Delivery.png?raw=true"/>
 **DoorDash is the best!**
 
 --- 
-#### [The Massachusetts Schools Project](/files/Day 12 - 21 days to data.pdf)
+#### [The Massachusetts Schools Project with Tableau](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
