@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Food Delivery Project](/bank)
-<img src="images/3D Food Delivery.jpg?raw=true"/>
+<img src="images/DD Food Delivery.png?raw=true"/>
 **DoorDash is the best!**
 
 --- 
