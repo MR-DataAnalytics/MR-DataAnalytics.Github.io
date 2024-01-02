@@ -10,8 +10,8 @@
 
 --- 
 #### [The Massachusetts Schools Project with Tableau](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/Grads.jpg?raw=true"/>
+For this data visualization project, I have explored **1861** public schools and delve into the performances of more than **950,000** students. The project helped me to unleash the power of data visualization by ceating a dynamic dashboard to deliver data-driven insights to the Massachusetts Department of Education. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
