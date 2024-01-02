@@ -14,8 +14,8 @@
 For this data visualization project, I have explored **1861** public schools in the State of Massachusetts and delve into the performances of more than **950,000** students. The project helped me to unleash the power of data visualization by creating a dynamic dashboard with tableau and delivering data-driven insights to the Massachusetts Department of Education. The  main focuses were:
 Which public schools are in the bottom 10 in graduation percentage?
 Does the plan to build more public schools increase college attendance?
-What impact does economic background has on college attendance?
-What are the top performing 4th grade math schools in Masachusetts school districts?
+What impact does economic background have on college attendance?
+Which school districts are the best performing in passing the 4th grade math test?
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
