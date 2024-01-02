@@ -16,6 +16,7 @@ Which public schools are in the bottom 10 in graduation percentage?
 Does the plan to build more public schools increase college attendance?
 What impact does economic attendance has on college attendance?
 What are the top performing 4th grade math schools in Masachusetts school districts?
+
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
