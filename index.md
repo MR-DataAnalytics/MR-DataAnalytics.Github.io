@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Food Delivery Project with Excel](https://www.linkedin.com/pulse/food-stayin-alive-michael-retta-s5nfc/)
-<img src="images/DD Food Delivery.png?raw=true"/>(https://www.linkedin.com/pulse/food-stayin-alive-michael-retta-s5nfc/)
+<img src="images/DD Food Delivery.png?raw=true"/>
 **DoorDash is the best!**
 
 --- 
